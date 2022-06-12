@@ -1,0 +1,5 @@
+{
+  "mongoUri": "mongodb+srv://mobihub:mobihub@cluster0.e4sf0.mongodb.net/MobiHub?retryWrites=true&w=majority",
+  "jwtSecret1": "Mobuiler_secret_customer",
+  "jwtSecret2": "Mobuiler_secret_seller"
+}
